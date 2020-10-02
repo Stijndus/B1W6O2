@@ -44,6 +44,14 @@ header nav a {
     display: block;
 }
 
+.active {
+    color: white !important;
+}
+
+.active i {
+    color: white !important;
+}
+
 
 /*Style for contact*/
 
